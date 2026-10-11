@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SenpaiSpider2",
+    "username": "SenpaiSpider",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Senpaiserver.aternos.me",
-    "port": 55388,
+    "ip": "ServerOP.aternos.me",
+    "port":34541,
     "version": "1.21.11"
   },
   "position": {
