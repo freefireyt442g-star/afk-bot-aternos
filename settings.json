@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Senpai",
+    "username": "Haider ka bhai",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "ServerOP.aternos.me",
